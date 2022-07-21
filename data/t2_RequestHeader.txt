@@ -1,0 +1,12 @@
+POST /api/shopping/v1/getsupporteddomains?appid=67220BD2169C2EA709984467C21494086DF8CA85 HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+Content-Length: 1240
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+

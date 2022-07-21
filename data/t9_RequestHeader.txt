@@ -1,0 +1,15 @@
+GET /auth/cookie/appanon?scn=app_anon&ocid=Peregrine&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM HTTP/1.1
+Host: api.msn.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+Accept: */*
+Origin: https://ntp.msn.com
+X-Client-Data: eyIxIjoiMiIsIjIiOiIxIiwiMyI6IjAiLCI0IjoiNDA1MjgyOTMzNTIxNDI0NDkyNyIsIjUiOiJcIkVSZG9HT2FNb0tDRThWOUt6ZURhZ1dSZG5FQzdGa2hWMmlOYWV4Y3RBSFk9XCIiLCI2Ijoic3RhYmxlIiwiNyI6IjEwMzUwODcxMTgzMzgiLCI5IjoiZGVza3RvcCJ9
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: _EDGE_V=1; _SS=SID=00; USRLOC=; sptmarket=en-gb|gb|IN|en-in|en-in|en; marketPref=en-in; __gads=ID=c2cf3cabd7a7b0ad-225161d3c0d40038:T=1642437055:S=ALNI_Mbw93_hHKOimJTVCwAwtn3ljBIOGA; PreferencesMsn=eyJIb21lUGFnZSI6eyJTdHJpcGVzIjpbXSwiTWVTdHJpcGVNb2R1bGVzIjpbXSwiTWFya2V0Q29uZmlndXJhdGlvbiI6eyJNYXJrZXQiOiJlbi1pbiIsIlN1cHByZXNzUHJvbXB0IjpmYWxzZSwiUHJlZmVycmVkTGFuZ3VhZ2VDb2RlIjoiZW4tZ2IiLCJDb3VudHJ5Q29kZSI6IklOIn19LCJFeHBpcnlUaW1lIjo2MzgyMzMxMjc3NTEyNzkxOTgsIlZlcnNpb24iOjF90; MUID=0A6D71F5F61E661B16276153F7856730; __gpi=UID=000006bfe463a425:T=1655540413:RT=1656179982:S=ALNI_MZrw0Z-A0slpM2hv21CNsllk-cYBQ
+

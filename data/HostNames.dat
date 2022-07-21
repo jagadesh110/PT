@@ -1,0 +1,11 @@
+[hosts]
+localhost=
+dns.google=
+www.bing.com=
+config.edge.skype.com=
+edge.microsoft.com=
+ntp.msn.com=
+go.microsoft.com=
+api.msn.com=
+assets.msn.com=
+ecn.dev.virtualearth.net=

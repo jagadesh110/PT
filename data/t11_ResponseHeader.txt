@@ -1,0 +1,11 @@
+HTTP/1.1 204 No Content
+Access-Control-Expose-Headers: DDD-TMPL
+x-wpo-activityId: 99CB58CA-530C-49C7-9E22-61039F4D61FD|2022-07-01T15:53:23Z|
+x-fabric-cluster: pmeprodks
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1.0}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: B3C9153D8DA449DD9A6F191BC206D8F1 Ref B: MAA02EDGE0315 Ref C: 2022-07-01T15:53:23Z
+Date: Fri, 01 Jul 2022 15:53:23 GMT
+

@@ -1,0 +1,16 @@
+GET /abusiveadblocking/api/v1/blocklist HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+If-None-Match: "1656624875"
+Sec-Mesh-Client-Edge-Version: 103.0.1264.37
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.19044
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+Accept-Encoding: gzip, deflate, br
+

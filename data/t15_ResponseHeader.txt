@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 334
+Content-Type: application/json; charset=utf-8
+Content-Encoding: br
+Expires: -1
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: MUIDB=0A6D71F5F61E661B16276153F7856730; expires=Wed, 26-Jul-2023 15:53:26 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=22688FB8C51967282DEC9E6CC4B4664D; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: _SS=SID=22688FB8C51967282DEC9E6CC4B4664D; domain=.bing.com; path=/; secure; SameSite=None
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&BRW=W&BRH=S&CW=1366&CH=657&SW=1366&SH=768&DPR=1&UTC=330&DM=0&EXLTT=17&HV=1656674739&WTS=63792271533&PV=10.0.0; domain=.bing.com; expires=Mon, 01-Jul-2024 15:53:26 GMT; path=/; secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-RPS-Token
+Access-Control-Allow-Origin: https://ntp.msn.com
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Content-Security-Policy-Report-Only: script-src https: 'strict-dynamic' 'report-sample' 'nonce-rMtijfzFk53PknJC2NIYdQtGMJARMZ63uBfzJKi7jqw='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+X-Frame-Options: SAMEORIGIN
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 3A9F956B6FE74403B1828D67F3C94D0E Ref B: MAA02EDGE0309 Ref C: 2022-07-01T15:53:26Z
+Date: Fri, 01 Jul 2022 15:53:26 GMT
+

@@ -1,0 +1,119 @@
+Virtual User Script started at: 05/07/2022 22:16:12
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37  	[MsgId: MMSG-26988]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(4): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(8): Notify: Transaction "Launch" started.
+Action.c(10): web_url("index.htm") started  	[MsgId: MMSG-26355]
+Action.c(10): Notify: Parameter Substitution: parameter "URL" =  "http://localhost:1080/WebTours/index.htm"
+Action.c(10): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/index.htm"  	[MsgId: MMSG-26574]
+Action.c(10): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/index.htm"  	[MsgId: MMSG-26574]
+Action.c(10): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(10): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(10): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(10): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(10): Notify: Saving Parameter "C_session = 134227.587849332zQAtDDVpfftVtcfpQiQD".
+Action.c(10): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(10): web_url("index.htm") was successful, 10072 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(21): Notify: Transaction "Launch" ended with a "Pass" status (Duration: 5.1090 Wasted Time: 0.2340).
+Action.c(26): Notify: Transaction "login" started.
+Action.c(28): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(28): Notify: Parameter Substitution: parameter "C_session" =  "134227.587849332zQAtDDVpfftVtcfpQiQD"
+Action.c(28): Notify: Parameter Substitution: parameter "P_Username" =  "jojo"
+Action.c(28): Notify: Next row for parameter P_Password = 1 [table  = P_Password].
+Action.c(28): Notify: Parameter Substitution: parameter "P_Password" =  "bean"
+Action.c(28): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(28): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(28): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(28): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(28): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(28): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(28): web_submit_data("login.pl") was successful, 5779 body bytes, 2032 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(45): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.6813 Wasted Time: 0.0179).
+Action.c(49): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(49): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(51): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(51): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(53): Notify: Transaction "selectflight" started.
+Action.c(55): web_url("Search Flights Button") started  	[MsgId: MMSG-26355]
+Action.c(55): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+Action.c(55): Detected non-resource "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" in "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+Action.c(55): Found resource "http://localhost:1080/WebTours/images/in_flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(55): Resource "http://localhost:1080/WebTours/images/itinerary.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(55): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Notify: Saving Parameter "C_Depart_1 = Frankfurt".
+Action.c(55): Notify: Saving Parameter "C_Arrive_1 = Frankfurt".
+Action.c(55): Notify: Saving Parameter "C_Depart_2 = London".
+Action.c(55): Notify: Saving Parameter "C_Arrive_2 = London".
+Action.c(55): Notify: Saving Parameter "C_Depart_3 = Los Angeles".
+Action.c(55): Notify: Saving Parameter "C_Arrive_3 = Los Angeles".
+Action.c(55): Notify: Saving Parameter "C_Depart_4 = Paris".
+Action.c(55): Notify: Saving Parameter "C_Arrive_4 = Paris".
+Action.c(55): Notify: Saving Parameter "C_Depart_5 = Portland".
+Action.c(55): Notify: Saving Parameter "C_Arrive_5 = Portland".
+Action.c(55): Notify: Saving Parameter "C_Depart_6 = San Francisco".
+Action.c(55): Notify: Saving Parameter "C_Arrive_6 = San Francisco".
+Action.c(55): Notify: Saving Parameter "C_Depart_7 = Seattle".
+Action.c(55): Notify: Saving Parameter "C_Arrive_7 = Seattle".
+Action.c(55): Notify: Saving Parameter "C_Depart_8 = Sydney".
+Action.c(55): Notify: Saving Parameter "C_Arrive_8 = Sydney".
+Action.c(55): Notify: Saving Parameter "C_Depart_9 = Zurich".
+Action.c(55): Notify: Saving Parameter "C_Arrive_9 = Zurich".
+Action.c(55): Notify: Saving Parameter "C_Depart_10 = Frankfurt".
+Action.c(55): Notify: Saving Parameter "C_Arrive_10 = Frankfurt".
+Action.c(55): Notify: Saving Parameter "C_Depart_11 = London".
+Action.c(55): Notify: Saving Parameter "C_Arrive_11 = London".
+Action.c(55): Notify: Saving Parameter "C_Depart_12 = Los Angeles".
+Action.c(55): Notify: Saving Parameter "C_Arrive_12 = Los Angeles".
+Action.c(55): Notify: Saving Parameter "C_Depart_13 = Paris".
+Action.c(55): Notify: Saving Parameter "C_Arrive_13 = Paris".
+Action.c(55): Notify: Saving Parameter "C_Depart_14 = Portland".
+Action.c(55): Notify: Saving Parameter "C_Arrive_14 = Portland".
+Action.c(55): Notify: Saving Parameter "C_Depart_15 = San Francisco".
+Action.c(55): Notify: Saving Parameter "C_Arrive_15 = San Francisco".
+Action.c(55): Notify: Saving Parameter "C_Depart_16 = Seattle".
+Action.c(55): Notify: Saving Parameter "C_Arrive_16 = Seattle".
+Action.c(55): Notify: Saving Parameter "C_Depart_17 = Sydney".
+Action.c(55): Notify: Saving Parameter "C_Arrive_17 = Sydney".
+Action.c(55): Notify: Saving Parameter "C_Depart_18 = Zurich".
+Action.c(55): Notify: Saving Parameter "C_Arrive_18 = Zurich".
+Action.c(55): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Action.c(55): Notify: Saving Parameter "C_Depart_count = 18".
+Action.c(55): Notify: Saving Parameter "C_Arrive_count = 18".
+Action.c(55): web_url("Search Flights Button") was successful, 8516 body bytes, 1616 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(66): Notify: Transaction "selectflight" ended with a "Pass" status (Duration: 0.6255 Wasted Time: 0.0238).
+Action.c(71): Notify: Parameter Substitution: parameter "C_Depart_count" =  "18"
+Action.c(71): Notify: Parameter Substitution: parameter "C_Depart_4" =  "Paris"
+Action.c(71): Notify: Saving Parameter "randomdep = Paris".
+Action.c(73): Notify: Parameter Substitution: parameter "C_Arrive_count" =  "18"
+Action.c(73): Notify: Parameter Substitution: parameter "C_Arrive_6" =  "San Francisco"
+Action.c(73): Notify: Saving Parameter "randomarv = San Francisco".
+Action.c(76): Notify: Transaction "continue" started.
+Action.c(78): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Action.c(78): Warning: The string 'randomdep_13' with parameter delimiters is not a parameter.
+Action.c(78): Warning: The string 'randomarv_17' with parameter delimiters is not a parameter.
+Action.c(78): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(78): web_submit_data("reservations.pl") was successful, 2434 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(102): Notify: Transaction "continue" ended with a "Pass" status (Duration: 0.6077 Wasted Time: 0.0139).
+Action.c(108): Notify: Transaction "logout" started.
+Action.c(110): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(110): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(110): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(110): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(110): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(110): web_url("SignOff Button") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(120): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0.6710 Wasted Time: 0.0125).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

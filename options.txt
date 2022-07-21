@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\DELL\Documents\VuGen\Scripts\Newscript
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\dell\documents\vugen\scripts\newscript\\logfile.log
+c:\users\dell\documents\vugen\scripts\newscript\\combined_Newscript.c
+c:\users\dell\documents\vugen\scripts\newscript\\pre_cci.c

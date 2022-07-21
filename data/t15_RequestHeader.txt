@@ -1,0 +1,21 @@
+GET /profile/history/data?do=2&userAccountType=2 HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Microsoft Edge";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+sec-ch-ua-platform: "Windows"
+content-type: text/plain
+Accept: */*
+Origin: https://ntp.msn.com
+X-Edge-Shopping-Flag: 1
+X-Client-Data: eyIxIjoiMiIsIjIiOiIxIiwiMyI6IjAiLCI0IjoiNDA1MjgyOTMzNTIxNDI0NDkyNyIsIjUiOiJcIkVSZG9HT2FNb0tDRThWOUt6ZURhZ1dSZG5FQzdGa2hWMmlOYWV4Y3RBSFk9XCIiLCI2Ijoic3RhYmxlIiwiNyI6IjEwMzUwODcxMTgzMzgiLCI5IjoiZGVza3RvcCJ9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: _EDGE_V=1; SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=91002C3C11EB4E14956CA7830AEF5883&dmnchg=1; BCP=AD=1&AL=1&SM=1; ABDEF=V=13&ABDV=13&MRNB=1653888389740&MRB=0; USRLOC=HS=1; MUID=0A6D71F5F61E661B16276153F7856730; _RwBf=ilt=10&ihpd=0&ispd=1&rc=32&rb=0&gb=0&rg=200&pc=29&mtu=0&rbb=0&g=0&cid=&clo=0&v=1&l=2022-06-29T07:00:00.0000000Z&lft=20220625&aof=0&o=2&p=&c=&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2022-06-30T03:21:26.9273172+00:00&rwred=0; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _tarLang=default=te; _TTSS_OUT=hist=WyJoaSIsInRlIl0=; SRCHUSR=DOB=20211023&T=1656674733000; SRCHHPGUSR=SRCHLANG=en&BRW=W&BRH=S&CW=1366&CH=657&SW=1366&SH=768&DPR=1&UTC=330&DM=0&EXLTT=17&HV=1656674739&WTS=63792271533&PV=10.0.0
+

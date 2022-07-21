@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=18000
+Content-Length: 74636
+Content-Type: application/json; charset=utf-8
+ETag: "1656626118"
+Server: Kestrel
+X-Cache: TCP_HIT
+Strict-Transport-Security: max-age=0
+X-Azure-Ref-OriginShield: Ref A: 47C51EDDA4744616BE2E6A6B6EF7B0AE Ref B: MAA01EDGE0418 Ref C: 2022-07-01T15:22:18Z
+X-MSEdge-Ref: Ref A: 4B89502DCC6D4623A5757F155CB954F9 Ref B: MAA02EDGE0312 Ref C: 2022-07-01T15:52:34Z
+Date: Fri, 01 Jul 2022 15:52:33 GMT
+

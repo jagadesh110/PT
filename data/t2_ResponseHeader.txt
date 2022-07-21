@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=172572
+Content-Length: 319853
+Content-Type: application/json; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 21E1C6F9DB1C4C909F200C019AEC1487 Ref B: MAA02EDGE0317 Ref C: 2022-07-01T15:52:33Z
+Date: Fri, 01 Jul 2022 15:52:33 GMT
+

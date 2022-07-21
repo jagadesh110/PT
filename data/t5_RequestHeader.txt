@@ -1,0 +1,22 @@
+GET /edge/ntp?locale=en-gb&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1 HTTP/1.1
+Host: ntp.msn.com
+Connection: keep-alive
+sec-ch-ua: " Not;A Brand";v="99", "Microsoft Edge";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37
+sec-ch-ua-arch: "x86"
+sec-ch-ua-platform-version: "10.0.0"
+sec-ch-ua-full-version: "103.0.1264.37"
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Upgrade-Insecure-Requests: 1
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: ""
+sec-ch-ua-platform: "Windows"
+X-Client-Data: eyIxIjoiMiIsIjIiOiIxIiwiMyI6IjAiLCI0IjoiNDA1MjgyOTMzNTIxNDI0NDkyNyIsIjUiOiJcIkVSZG9HT2FNb0tDRThWOUt6ZURhZ1dSZG5FQzdGa2hWMmlOYWV4Y3RBSFk9XCIiLCI2Ijoic3RhYmxlIiwiNyI6IjEwMzUwODcxMTgzMzciLCI5IjoiZGVza3RvcCJ9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: pglt-edgeChromium-ntp=41; pglt-edgeChromium-dhp=41; sptmarket=en-gb||in|en-in|en-in|en|; _EDGE_V=1; MicrosoftApplicationsTelemetryDeviceId=62a35b6e-ec60-4afc-a772-22ea98af605f; MSFPC=GUID=a1f80a5d69144964b80c08ace1a5ac88&HASH=a1f8&LV=202110&V=4&LU=1634969572025; _SS=SID=00; USRLOC=; sptmarket=en-gb|gb|IN|en-in|en-in|en; marketPref=en-in; __gads=ID=c2cf3cabd7a7b0ad-225161d3c0d40038:T=1642437055:S=ALNI_Mbw93_hHKOimJTVCwAwtn3ljBIOGA; PreferencesMsn=eyJIb21lUGFnZSI6eyJTdHJpcGVzIjpbXSwiTWVTdHJpcGVNb2R1bGVzIjpbXSwiTWFya2V0Q29uZmlndXJhdGlvbiI6eyJNYXJrZXQiOiJlbi1pbiIsIlN1cHByZXNzUHJvbXB0IjpmYWxzZSwiUHJlZmVycmVkTGFuZ3VhZ2VDb2RlIjoiZW4tZ2IiLCJDb3VudHJ5Q29kZSI6IklOIn19LCJFeHBpcnlUaW1lIjo2MzgyMzMxMjc3NTEyNzkxOTgsIlZlcnNpb24iOjF90; MUID=0A6D71F5F61E661B16276153F7856730; __gpi=UID=000006bfe463a425:T=1655540413:RT=1656179982:S=ALNI_MZrw0Z-A0slpM2hv21CNsllk-cYBQ
+

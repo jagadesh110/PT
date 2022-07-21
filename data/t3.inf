@@ -1,0 +1,6 @@
+[t3]
+FileName1=t3_103.0.1264.json
+URL1=https://config.edge.skype.com/config/v1/Edge/103.0.1264.37?clientId=4052829335214244927&osname=win&client=edge&channel=stable&scpfull=0&scpguard=1&scpfre=0&scpver=2&osarch=x86_64&osver=10.0.19044&wu=1&devicefamily=desktop&uma=1&mngd=0&installdate=1630567641&edu=0&bphint=2&soobedate=1630582688
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_3.xml

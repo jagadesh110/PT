@@ -1,0 +1,13 @@
+[t11]
+FileName1=t11_treatments.html
+URL1=https://ntp.msn.com/optimizer/api/optimize/treatments?appType=edgeChromium&market=en-in&audiencemode=adult&pageType=dhp&fdhead=msnallexpusers,prg-wtchleftrail,ads-tabbeaconc,oneboxdhpcf,prg-hp-t1int,prg-hp-stopsw,prg-hp-t1,bingcollabhp2cf,modcoglangc,prg-hub-staging,prg-prod7,audexhz1cf,prg-ads-c-onesz-r2,prg-backntpcf,prg-1sw-bld-carc,prg-denserivera1-c,prg-wpo-new7gvt,prg-tel-trdom,preprg-1sw-sawnlenc,prg-ntbl-nd,shophp2cf,englishuxbundle,prg-1sw-sacfcdt3,prg-1sw-sam3th3,prg-ntbell-expt,prg-commonbell,prg-nt-vertical,prg-1sw-newmb2,prg-1sw-shopiconctr,prg-1sw-cibanditc,prg-1sw-cmlth2,prg-1sw-remvta2,prg-sf-config,prg-1sw-tf-iexbbox,prg-transallmc,prg-adspeek,prg-jprewards-revc,prg-wpo-encvd,prg-wpo-covid,prg-ent-dcp1,1s-brsagewnlt2,prg-1s-brln,prg-1s-webnews,prg-1s-wf-g1,prg-1s-wntpsk,prg-ent-intldcp1,prg-ent-tmpl1,prg-locnew-genc,prg-sh-mkton,prg-sh-scarsint1pure,prg-sh-sdintmkt,prg-spr-histon,prg-spr-osq5,prg-watvid-genc,prg-wpo-intlfdheads,prg-fin-l3fin,btrecrow1,1s-winauthservice,prg-tat-cxtmenutc,wf-sunny-first,weather8cf,prg-wxuftrg,prg-1sw-clbdg,1s-p2-brknb,1s-p2cl-bdg,prg-1sbgbanner,prg-1sw-wxbdg,prg-1sw-clrot,prg-1s-mtsn,prg-1sw-wxrus,preprg-tds-fsmb2,btie-freqcap-t,prg-ias,routentpring2c,prg-entcomp,1s-fcrypt,prg-wtch-tg3,prg-prmt-crtdv2,prg-wpo-dbcg2,prg-crsl-dr-sc-ctrl,prg-1sw-oldcarscrintlads,prg-1sw-intlsd2,prg-1sw-prodcar,prg-1sw-prodcarscr,prg-1sw-shcanema,prg-sh-fixprong1,prg-sh-wnwmkt,prg-1sw-cgrndc,prg-1sw-splog,prg-ctr-pnpc,prg-1sw-hdukr,288gc813,prg-wpo-stopwpocrs,prg-upsaip-w1-t,prg-feed2feed-t5,prg-varfont,prg-intapperr,prg-upsaip-r-t,ads-msanapac,prg-wx-anmpr,1s-contentview-1,prg-wcm-istc,muidflt22cf,521f7706,a83d7349,prg-wx-sbn-vm,prg-1sw-sagetrim,prg-wtchbutton1,prg-1sw-sbn-mm,prg-1sw-c-linkacc,prg-langdiscov,prg-1sw-icwhp,prg-ccmfa-t,hp-wea-locfcst2v,prg-wx-cminitext,1s-rpssecautht,prg-apilog,prg-1sw-p1wtrclm,prg-card-distpeh,gbj35620,mktautospgntncf,prg-officecm-t1e,prg-1sw-mbnodp,prg-sh-newdl,prg-wcard-distp,prg-clb,prg-1sw-mbcache,mktautosnavalgn,prg-spr-t-intl,prg-spr-egreco,prg-spr-emttof,prg-spr-st-gmarketv2,prg-anidelay-ro,prg-anidelay,prg-1sw-wf50c,prg-1sw-pllmtrt
+Total=2
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_11.xml
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t11_ResponseHeader.txt
+FileName2=t11_th.jpg
+URL2=https://www.bing.com/th?id=ORMS.1c4bfa57a4d0fbb1331acbe83a8b48a0&pid=Wdp&w=300&h=225&qlt=90&c=1&rs=1&dpr=1&p=0
+[ProtocolInfo]
+ProtocolId=QTWeb

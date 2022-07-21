@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+Access-Control-Allow-Headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId
+Access-Control-Expose-Headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId
+DDD-AuthenticatedWithJwtFlow: False
+DDD-UserType: AnonymousMuid
+DDD-ServerName: BB861D6F7CA6,BB861D6F7CA6
+DDD-StoreEntryTimeUTC: 7/1/2022 3:53:26 PM,7/1/2022 3:53:26 PM
+DDD-ActivityId: a2b102ed-c53c-41fd-836b-2611b0a65b9c
+DDD-DataStore: Graph_UserAndActionAipStore,Graph_BestNewsDataStoreGraph
+DDD-StoreExecutionLatency: 00:00:00.0607202,00:00:00.0609799
+DDD-StrategyId: Graph_AipUserAndActionReadStrategy,Graph_BestNewsReadStrategy
+DDD-StrategyExecutionLatency: 00:00:00.0607403,00:00:00.0609980
+OneWebServiceLatency: 61
+X-MSEdge-ResponseInfo: 61
+X-FD-Features: prg-wtchleftrail,ads-tabbeaconc,oneboxdhpcf,prg-hp-t1int,prg-hp-stopsw,prg-hp-t1,bingcollabhp2cf,modcoglangc,prg-hub-staging,prg-prod7,audexhz1cf,prg-ads-c-onesz-r2,shophp2cf,englishuxbundle,prg-1sw-sacfcdt3,prg-1sw-sam3th3,prg-ntbell-expt,prg-commonbell,prg-nt-vertical,prg-1sw-newmb2,prg-1sw-shopiconctr,prg-1sw-cibanditc,prg-1sw-cmlth2,prg-1sw-remvta2,prg-sf-config,prg-1sw-tf-iexbbox,prg-adspeek,prg-fin-l3fin,btrecrow1,1s-winauthservice,prg-tat-cxtmenutc,wf-sunny-first,weather8cf,prg-wxuftrg,prg-1sw-clbdg,1s-p2-brknb,1s-p2cl-bdg,prg-1sbgbanner,prg-1sw-wxbdg,prg-1sw-clrot,prg-1s-mtsn,prg-1sw-wxrus,preprg-tds-fsmb2,btie-freqcap-t,prg-ias,routentpring2c,1s-fcrypt,prg-wtch-tg3,prg-1sw-oldcarscrintlads,prg-1sw-intlsd2,prg-1sw-prodcar,prg-1sw-prodcarscr,prg-1sw-shcanema,prg-sh-fixprong1,prg-sh-wnwmkt,prg-1sw-cgrndc,prg-1sw-splog,prg-ctr-pnpc,prg-1sw-hdukr,prg-upsaip-w1-t,prg-intapperr,prg-upsaip-r-t,ads-msanapac,prg-wx-anmpr,1s-contentview-1,muidflt22cf,521f7706,a83d7349,prg-wx-sbn-vm,prg-wtchbutton1,prg-1sw-sbn-mm,prg-1sw-c-linkacc,prg-1sw-icwhp,prg-ccmfa-t,hp-wea-locfcst2v,prg-wx-cminitext,1s-rpssecautht,prg-apilog,prg-1sw-p1wtrclm,gbj35620,prg-1sw-mbnodp,prg-sh-newdl,prg-wcard-distp,prg-clb,prg-1sw-mbcache,prg-spr-t-intl,prg-spr-egreco,prg-spr-emttof,prg-spr-st-gmarketv2,prg-anidelay-ro,prg-anidelay,prg-1sw-wf50c,prg-1sw-pllmtrt
+X-FD-Detection-corpnet: 0
+X-FD-Flight: muidflt21=prg-wtchleftrail,muidflt57=ads-tabbeaconc,oneboxdhp=oneboxdhpcf,platagyhp2=prg-hp-t1int,bingcollabhp2=bingcollabhp2cf,pnehz2=modcoglangc,platagyhz1=prg-hub-staging,platagyhz3=prg-prod7,audexhz1=audexhz1cf,article1=prg-ads-c-onesz-r2,shophp2=shophp2cf,1tef=englishuxbundle,sagenlann=prg-1sw-sacfcdt3,sagenlsegmentrecall=prg-1sw-sam3th3,sagenl1=prg-ntbell-expt,wfeedsmuid3=prg-1sw-newmb2,wfeedsmuid4=prg-1sw-shopiconctr,wfeedsmuid9=prg-1sw-cibanditc,wfeedsmuid13=prg-1sw-remvta2,wfeedsmuid14=prg-sf-config,wfeedsmuid15=prg-1sw-tf-iexbbox,2ml4=prg-adspeek,csmoney6=prg-fin-l3fin,2ray=btrecrow1,2tpu=1s-winauthservice,wfeedsmuidheader1=prg-tat-cxtmenutc,weather6=wf-sunny-first,weather8=weather8cf,weather9=prg-wxuftrg,prong2flyout2=prg-1sw-clbdg,prong2flyout3=prg-1sw-clrot,prong2flyout5=preprg-tds-fsmb2,anaheimmuidads1=btie-freqcap-t,314c=prg-ias,3c76=routentpring2c,3gk6=1s-fcrypt,watchranking2=prg-wtch-tg3,wfeedsmuidwpo3=prg-1sw-oldcarscrintlads,wfeedsmuidwpo5=prg-1sw-cgrndc,3l73=prg-1sw-splog,3m3s=prg-ctr-pnpc,3mi0=prg-1sw-hdukr,3nhv=prg-upsaip-w1-t,3ouz=prg-intapperr,3pum=prg-upsaip-r-t,3pwq=ads-msanapac,3qpc=prg-wx-anmpr,3qu2=1s-contentview-1,muidflt22=muidflt22cf,3so6=521f7706,3sxl=a83d7349,3t7d=prg-wx-sbn-vm,3tdw=prg-wtchbutton1,3txa=prg-1sw-sbn-mm,3u50=prg-1sw-c-linkacc,3uht=prg-1sw-icwhp,3v18=prg-ccmfa-t,3v32=hp-wea-locfcst2v,3v9b=prg-wx-cminitext,3vhe=1s-rpssecautht,3w8x=prg-apilog,3wjn=prg-1sw-p1wtrclm,3wqo=gbj35620,3wus=prg-1sw-mbnodp,3wvg=prg-sh-newdl,3x3n=prg-wcard-distp,3x3o=prg-clb,3xag=prg-1sw-mbcache,3xfz=prg-spr-t-intl,3xk9=prg-anidelay-ro,3xpi=prg-1sw-wf50c,3xpk=prg-1sw-pllmtrt
+DDD-DebugId: a2b102ed-c53c-41fd-836b-2611b0a65b9c|7/1/2022 3:53:26 PM|fabric:/graph|SEA1|_Graph_48
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: E76DC92618C447EB804A0A6F31BF66C4 Ref B: BOM01EDGE1607 Ref C: 2022-07-01T15:53:26Z
+Expires: Fri, 01 Jul 2022 15:53:26 GMT
+Date: Fri, 01 Jul 2022 15:53:26 GMT
+Content-Length: 96
+Connection: keep-alive
+Akamai-Server-IP: 23.212.252.44
+Akamai-Request-ID: 114a988f
+Access-Control-Allow-Methods: PUT,PATCH,POST,GET,OPTIONS,DELETE
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://ntp.msn.com
+X-AS-SuppressSetCookie: 1
+Cache-Control: private, max-age=0
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.25}
+Server-Timing: 28
+Vary: Origin
+
